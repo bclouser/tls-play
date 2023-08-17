@@ -1,0 +1,9 @@
+newDevice.crt
+deviceCertUnverified.crt
+devicePrivate.pem
+devicePublic.pem
+deviceRootCa.crt
+deviceRootCaPrivate.key
+pkey.pem
+tls-play
+getDeviceRootCa.sh
